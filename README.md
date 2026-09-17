@@ -1,1 +1,1 @@
-no
+my graph2
