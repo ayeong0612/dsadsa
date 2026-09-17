@@ -1,1 +1,1 @@
-# mt-graph2
+# my-graph2
